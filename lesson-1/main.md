@@ -209,3 +209,8 @@ Private / Self-Hosted LLMs： => 部署框架：Ollama、OpenLLM 将其变为 AP
 1 nodejs 下载
 
 2 vscode
+
+
+## 网站资源
+
+参见保存标签。
